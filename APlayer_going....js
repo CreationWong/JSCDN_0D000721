@@ -5,7 +5,7 @@ var ap = new APlayer
 				audio: [{
 					name: 'going...',
 					artist: '電音部',
-					url: 'https://webdisk.creationwong.xyz/d/%E7%AB%99%E9%95%BF%E6%96%87%E4%BB%B6/HIFI/going%E2%80%A6.flac',
+					url: 'https://music.163.com/song/media/outer/url?id=2090391548',
 					cover: 'https://webdisk.creationwong.xyz/d/%E7%AB%99%E9%95%BF%E6%96%87%E4%BB%B6/HIFI/going%E2%80%A6.jpg',
 					lrc: '[00:00.000]going…\n' +
 							'[00:03.000]　\n' +
