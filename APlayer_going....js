@@ -45,4 +45,4 @@ var ap = new APlayer
 							'[03:02.220]　\n',
 			}]
 		});
-		ap.init();
+ap.init();
